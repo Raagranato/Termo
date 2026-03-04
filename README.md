@@ -11,3 +11,4 @@ No terminal, ainda na pasta raiz:
 ```
 java Main
 ```
+Para testar a aplicação baixe o .jar, nele o código esta compilado e é so executa-lo.
