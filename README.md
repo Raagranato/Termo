@@ -1,4 +1,4 @@
-##Como rodar o executavel
+## Como rodar o executavel
 Para testar a aplicação baixe o .jar, nele o código esta compilado e é só executa-lo.
 
 ## Como compilar e rodar
