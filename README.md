@@ -1,8 +1,3 @@
-# tp2-poo
-
-Link relatorio: https://www.overleaf.com/2696962557rgnkvpgvgsqt#dd1fa4
-
-
 ## Como compilar e rodar
 **Compilando:**
 
